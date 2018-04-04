@@ -1,0 +1,19 @@
+/* Large Device: Setting Header background for minimum width: 450px */
+@media screen and (min-width: 450px)
+{
+header
+{
+	background-color: green;
+	padding:; 20px;
+}
+}
+
+/* Small Device: Setting Header background for maximum width: 450px */
+@media screen and (max-width: 450px)
+{
+header
+{
+ background-color: blue;
+ padding: 10px;
+}
+}
